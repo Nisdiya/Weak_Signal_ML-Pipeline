@@ -76,4 +76,4 @@ This project reflects a real-world ML scenario:
 ➡️ Accept weak signals
 ➡️ Focus on process, robustness, and honesty in reporting
 
-IMAGE Link
+IMAGE Link: https://github.com/Nisdiya/Weak_Signal_ML-Pipeline/tree/main/images
